@@ -12,5 +12,6 @@ Package: python-calverter
 Architecture: all
 Depends: ${misc:Depends}, ${python:Depends}
 Provides: ${python:Provides}
-Description: Chinese Calendar Library written in pure
- Python.
+Description: Chinese Calendar Library
+ written in pure Python.
+

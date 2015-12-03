@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 
-from distutils.core import setup
-import calverter
+from setuptools import setup
 
 setup(
     name='pyCalverter',
