@@ -1,0 +1,10 @@
+Format: http://dep.debian.net/deps/dep5
+Upstream-Name: pycalverter
+Source: https://github.com/sayoun/pycalverter
+
+Files: *
+Copyright: 2015 Dejan Filipovic
+License: GPL-2
+
+Licence: GPL-2
+See /usr/share/common-licenses/GPL-2
